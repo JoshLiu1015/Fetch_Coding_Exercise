@@ -17,3 +17,6 @@ This project is an Android application designed to fetch and display data from a
 - **Networking**: Retrofit
 - **Data Binding**: LiveData
 - **Build Tool**: Gradle
+
+**To find the app code:** 
+Navigate to `app/src/main/java/com/example/fetchexercise` in the project directory.
